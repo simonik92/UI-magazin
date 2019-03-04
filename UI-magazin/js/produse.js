@@ -1,7 +1,7 @@
 var editId;
 
 var API_URL = {
-    READ: 'http://localhost:8010/magazin/6'
+    READ: 'http://localhost:8011/magazin/6'
 };
 
 
